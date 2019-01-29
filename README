@@ -1,7 +1,8 @@
-# Basic Steps to create you input files to run WRF
+## Basic Steps to create you input files to run WRF
 
-modis_lakes+30s
 
+
+<img src="hhttps://github.com/schoenemeyer/WRF/blob/master/wpswrf.png" width="552">
 
 Install WPS
 
